@@ -6,13 +6,13 @@ Based on this repository: https://github.com/elringus/unity-raw-input
 # How to use?
 Just open app and it works
 ### Controls
-Enable Mouse - read or not mouse buttons (include mousewheel)
-Enable Mousewheel - read the mousewheel rotation as a mousewheel click (disabling this not disabling mousewheel click)
-Timer mode - read not clicks but time of hold (usefull for games' heatmap
-Change Gradient - setup how gradient looks like
-Save - save current settings (loads at startup)
-Restore - restore default settings
-Clear - clear area and start counting from zero
+- Enable Mouse - read or not mouse buttons (include mousewheel)
+- Enable Mousewheel - read the mousewheel rotation as a mousewheel click (disabling this not disabling mousewheel click)
+- Timer mode - read not clicks but time of hold (usefull for games' heatmap
+- Change Gradient - setup how gradient looks like
+- Save - save current settings (loads at startup)
+- Restore - restore default settings
+- Clear - clear area and start counting from zero
 
 # Linux?
 No, original asset works only on windows\
