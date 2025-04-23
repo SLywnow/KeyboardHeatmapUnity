@@ -1,7 +1,11 @@
 # What is it?
 
 This is small app that shows you most pressed keys while you working. App working on background. App count presses on all buttons and shown color based on most pressed button (like, if you press space 10 times and backspace 5 times, then space will be red and backspace will be orange by 5/10 formula)
-Based on this repository: https://github.com/elringus/unity-raw-input
+
+# Used assets:
+https://github.com/elringus/unity-raw-input
+https://github.com/Unity-UI-Extensions/com.unity.uiextensions
+https://github.com/SLywnow/slywnow_basic
 
 # How to use?
 Just open app and it works
